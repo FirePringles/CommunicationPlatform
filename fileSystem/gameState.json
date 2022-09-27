@@ -1,0 +1,2 @@
+<<<<<<< HEAD
+{"game": {"boardSize": 25, "player1": {"name": "Test1", "color": "black", "isNext": true}, "player2": {"name": "Test2", "color": "white", "isNext": false}, "listofPiecesPlayer1": [{"location": {"x": 10, "y": 12}, "properties": ["value1", "value2", "value3", "....."], "order": 1}], "listofPiecesPlayer2": [{"location": {"x": 1, "y": 2}, "properties": ["value1", "value2", "value3", "....."], "order": 1}, {"location": {"x": 4, "y": 3}, "properties": ["value1", "value2", "value3", "....."], "order": 2}]}}
